@@ -1,10 +1,4 @@
 # Customer App REST API written in C#
 
-* This repository contains REST API built with .NET Core 3.1. 
-
-* 3 Layer Architecture : 
-```
-1. BLL (Business Logic Layer)
-2. DAL (Data Access Layer)
-3. UI (User Interface)
-```
+* This repository contains .NET Core 3.1 REST API project built in 3-tier architecture.
+* Lars Bilde C Sharp REST API 2017
