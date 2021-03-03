@@ -1,0 +1,12 @@
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp3.1\CustomerAppBLL.deps.json
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp3.1\CustomerAppBLL.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp3.1\CustomerAppBLL.pdb
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp3.1\CustomerAppDAL.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp3.1\CustomerAppDAL.pdb
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp3.1\CustomerAppBLL.csprojAssemblyReference.cache
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp3.1\CustomerAppBLL.AssemblyInfoInputs.cache
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp3.1\CustomerAppBLL.AssemblyInfo.cs
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp3.1\CustomerAppBLL.csproj.CoreCompileInputs.cache
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp3.1\CustomerAppBLL.csproj.CopyComplete
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp3.1\CustomerAppBLL.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp3.1\CustomerAppBLL.pdb

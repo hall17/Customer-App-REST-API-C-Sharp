@@ -1,0 +1,20 @@
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\1. CustomerAppUI.exe
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\1. CustomerAppUI.deps.json
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\1. CustomerAppUI.runtimeconfig.json
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\1. CustomerAppUI.runtimeconfig.dev.json
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\1. CustomerAppUI.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\1. CustomerAppUI.pdb
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\2. CustomerAppBLL.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\3. CustomerAppDAL.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\CustomerAppEntity.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\2. CustomerAppBLL.pdb
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\CustomerAppEntity.pdb
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\bin\Debug\netcoreapp3.1\3. CustomerAppDAL.pdb
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp3.1\1. CustomerAppUI.csprojAssemblyReference.cache
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp3.1\1. CustomerAppUI.AssemblyInfoInputs.cache
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp3.1\1. CustomerAppUI.AssemblyInfo.cs
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp3.1\1. CustomerAppUI.csproj.CoreCompileInputs.cache
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp3.1\1. CustomerAppUI.csproj.CopyComplete
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp3.1\1. CustomerAppUI.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp3.1\1. CustomerAppUI.pdb
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppUI\obj\Debug\netcoreapp3.1\1. CustomerAppUI.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "3. CustomerAppDAL/1.0.0": {
+        "dependencies": {
+          "CustomerAppEntity": "1.0.0"
+        },
+        "runtime": {
+          "3. CustomerAppDAL.dll": {}
+        }
+      },
+      "CustomerAppEntity/1.0.0": {
+        "runtime": {
+          "CustomerAppEntity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3. CustomerAppDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerAppEntity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

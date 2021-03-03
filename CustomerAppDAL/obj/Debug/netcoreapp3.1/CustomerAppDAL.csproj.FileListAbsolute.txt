@@ -1,0 +1,9 @@
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppDAL\bin\Debug\netcoreapp3.1\CustomerAppDAL.deps.json
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppDAL\bin\Debug\netcoreapp3.1\CustomerAppDAL.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppDAL\bin\Debug\netcoreapp3.1\CustomerAppDAL.pdb
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppDAL\obj\Debug\netcoreapp3.1\CustomerAppDAL.AssemblyInfoInputs.cache
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppDAL\obj\Debug\netcoreapp3.1\CustomerAppDAL.AssemblyInfo.cs
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppDAL\obj\Debug\netcoreapp3.1\CustomerAppDAL.csproj.CoreCompileInputs.cache
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppDAL\obj\Debug\netcoreapp3.1\CustomerAppDAL.dll
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppDAL\obj\Debug\netcoreapp3.1\CustomerAppDAL.pdb
+C:\Users\Halil\source\repos\CustomerApp\CustomerAppDAL\obj\Debug\netcoreapp3.1\CustomerAppDAL.csprojAssemblyReference.cache
